@@ -526,6 +526,7 @@ To the extent possible under law, [Zenith W](https://github.com/stackdev19) has 
 * [Devtodev](https://github.com/devtodev-analytics/winstore-sdk) - A full-cycle analytics solution for game developers.
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
 * [osu!framework](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
+* [OpenRA](https://github.com/OpenRA/OpenRA) - A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
 
 ## GIS
 
