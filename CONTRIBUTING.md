@@ -37,4 +37,4 @@ We have additional requirements for proprietary and commercial projects:
 * If project is proprietary but still free to use, instead if `**[$]**` tag, please add `**[Proprietary]**` and `**[Free]**` tags.
 * If project has free for OSS version, please add `**[Free for OSS]**` tag to the end of the description (in bold)
 
-Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/contributors), you're awesome and wouldn't be possible without you!
+Thanks to all [contributors](https://github.com/stackdev19/awesome-dotnet/graphs/contributors), you're awesome and wouldn't be possible without you!
